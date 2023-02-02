@@ -1,6 +1,6 @@
 # Lee-Gihyeon
-notion Project page 
-https://impossible-moat-822.notion.site/SPARO-LAB-74026cd625314e80b0d200e8672c88ce
+notion Project page :
+https://impossible-moat-822.notion.site/Robotics-Project-7e40a090d04e406cbd4ebe08d252c4bb
 
 
 
