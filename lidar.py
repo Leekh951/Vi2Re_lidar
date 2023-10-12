@@ -9,7 +9,7 @@ import numpy as np
 import time
 import os,json
 import open3d as o3d
-from numba import jit
+
 
 class LIDAR():
     def __init__(self):
